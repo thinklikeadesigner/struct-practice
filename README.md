@@ -1,0 +1,2 @@
+# structy-notes
+# struct-practice
